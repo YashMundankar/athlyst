@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/athlyst/static/css/main.4a0a6039.css",
+    "main.js": "/athlyst/static/js/main.9ca5ea7f.js",
+    "static/js/787.41279ec4.chunk.js": "/athlyst/static/js/787.41279ec4.chunk.js",
+    "index.html": "/athlyst/index.html",
+    "main.4a0a6039.css.map": "/athlyst/static/css/main.4a0a6039.css.map",
+    "main.9ca5ea7f.js.map": "/athlyst/static/js/main.9ca5ea7f.js.map",
+    "787.41279ec4.chunk.js.map": "/athlyst/static/js/787.41279ec4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a0a6039.css",
+    "static/js/main.9ca5ea7f.js"
+  ]
+}
